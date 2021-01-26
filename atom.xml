@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apexJJ.github.io</id>
     <title>季凉川的博客</title>
-    <updated>2021-01-25T10:07:41.495Z</updated>
+    <updated>2021-01-26T09:18:25.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://apexJJ.github.io"/>
     <link rel="self" href="https://apexJJ.github.io/atom.xml"/>
@@ -11,13 +11,13 @@
     <icon>https://apexJJ.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 季凉川的博客</rights>
     <entry>
-        <title type="html"><![CDATA[1月25日所遇问题记录]]></title>
+        <title type="html"><![CDATA[问题记录]]></title>
         <id>https://apexJJ.github.io/post/1-yue-19-ri-suo-yu-wen-ti-ji-lu/</id>
         <link href="https://apexJJ.github.io/post/1-yue-19-ri-suo-yu-wen-ti-ji-lu/">
         </link>
         <updated>2021-01-25T09:48:17.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-vue读取excel">1.  Vue读取excel😵</h1>
-<h3 id="问题描述vue导入-读取excel文件导入的时间格式为数值需要设置日期参数-celldates">问题描述：Vue导入、读取Excel文件，导入的时间格式为数值，需要设置日期参数 cellDates</h3>
+<h4 id="问题描述vue导入-读取excel文件导入的时间格式为数值需要设置日期参数-celldates">问题描述：Vue导入、读取Excel文件，导入的时间格式为数值，需要设置日期参数 cellDates</h4>
 <p><code>XLSX.read(data, { type: 'array', cellDates: true });</code></p>
 ]]></content>
     </entry>
@@ -28,7 +28,7 @@
         </link>
         <updated>2021-01-14T01:44:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="理智很乏味清醒最孤独">理智很乏味，清醒最孤独🤐</h1>
-<h2 id="早已忘了如何开心开这篇博客除了记录自己平时项目中遇到的问题也会分享一些自己的一些想法-技术论文">早已忘了如何开心，开这篇博客，除了记录自己平时项目中遇到的问题，也会分享一些自己的一些想法、技术论文 。</h2>
+<h3 id="早已忘了如何开心开这篇博客希望能记录自己平时项目中遇到的问题也会分享一些自己的一些想法-技术论文">早已忘了如何开心，开这篇博客，希望能记录自己平时项目中遇到的问题，也会分享一些自己的一些想法、技术论文 。</h3>
 ]]></content>
     </entry>
 </feed>
