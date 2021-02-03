@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apexJJ.github.io</id>
     <title>季凉川的博客</title>
-    <updated>2021-01-26T09:18:25.066Z</updated>
+    <updated>2021-02-03T11:40:40.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://apexJJ.github.io"/>
     <link rel="self" href="https://apexJJ.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://apexJJ.github.io/images/avatar.png</logo>
     <icon>https://apexJJ.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 季凉川的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[前端逼死强迫症]]></title>
+        <id>https://apexJJ.github.io/post/前端的三两事/</id>
+        <link href="https://apexJJ.github.io/post/前端的三两事/">
+        </link>
+        <updated>2021-02-03T11:36:41.000Z</updated>
+        <content type="html"><![CDATA[<p>太难了，对于我这种后端直男，做前端真的欺负人呜呜😭😭<br>
+框架搭着搭着，还要去下载ps切图，心累😴</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[问题记录]]></title>
         <id>https://apexJJ.github.io/post/1-yue-19-ri-suo-yu-wen-ti-ji-lu/</id>
