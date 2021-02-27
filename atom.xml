@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://apexJJ.github.io</id>
     <title>季凉川的博客</title>
-    <updated>2021-02-03T11:40:40.691Z</updated>
+    <updated>2021-02-27T07:35:05.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://apexJJ.github.io"/>
     <link rel="self" href="https://apexJJ.github.io/atom.xml"/>
@@ -29,6 +29,9 @@
         <content type="html"><![CDATA[<h1 id="1-vue读取excel">1.  Vue读取excel😵</h1>
 <h4 id="问题描述vue导入-读取excel文件导入的时间格式为数值需要设置日期参数-celldates">问题描述：Vue导入、读取Excel文件，导入的时间格式为数值，需要设置日期参数 cellDates</h4>
 <p><code>XLSX.read(data, { type: 'array', cellDates: true });</code></p>
+<h1 id="2-前端webpack打包后首屏加载优化">2. 前端webpack打包后，首屏加载优化</h1>
+<h4 id="针对服务器的tomcat修改conf的serverxml">针对服务器的tomcat修改conf的server.xml</h4>
+<p><code>&lt;Connector port=&quot;8080&quot; protocol=&quot;HTTP/1.1&quot; maxThreads=&quot;250&quot; maxHttpHeaderSize=&quot;8192&quot; acceptCount=&quot;100&quot; connectionTimeout=&quot;60000&quot; keepAliveTimeout=&quot;200000&quot; redirectPort=&quot;8443&quot; useSendfile = &quot;false&quot; compression=&quot;on&quot; compressionMinSize=&quot;2048&quot; noCompressionUserAgents=&quot;gozilla, traviata&quot; compressableMimeType=&quot;application/javascript,application/json,text/html,text/xml,text/javascript,text/css,text/json&quot;/&gt;</code></p>
 ]]></content>
     </entry>
     <entry>
